@@ -1,0 +1,19 @@
+.custom-card{
+    width:100% !important; 
+    margin:auto !important;
+}
+.custom-header{
+    font-size:23px !important;
+}
+.custom-grid-col{
+    margin-left:30px !important;
+}
+.mt-3{
+    margin-top:3em !important;
+}
+.cv-card-btn{
+    margin-top:12% !important;
+    width:100%;
+    border-radius: 15px !important;
+    box-shadow: 0px 0px 5px rgba(0,0,0,.3) !important;
+}

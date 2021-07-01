@@ -1,0 +1,9 @@
+.register-container{
+    padding:30px 55px;
+    background:#989fb4;
+}
+.general-grid{
+    border-radius: 5px  ;
+    border:1px solid rgba(0,0,0,0.1);
+    margin-right:15px;
+}
